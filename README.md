@@ -1,2 +1,2 @@
-# Curso de JavaScripit
-curso JS do cursoemvideo
+# Curso de JavaScripit (estudos)
+curso JS do Curso em vídeo
